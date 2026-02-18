@@ -1,4 +1,4 @@
-# Open Science Community Maastricht events
+# FAIR4ChemNL-related events
 
 Current and past events:
 
@@ -17,7 +17,7 @@ function initTeSSWidgets() {
                 facetOptionLimit: 5
             },
             params: {
-                contentProvider: [ "OSCM" ],
+                contentProvider: [ "FAIR4ChemNL" ],
                 includeExpired: true,
                 sort: 'late'
             },
