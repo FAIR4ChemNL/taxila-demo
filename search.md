@@ -1,6 +1,6 @@
 # Search with string
 
-Here, searching for `OSC`:
+Here, searching for `chemistry`:
 
 <link rel="stylesheet" property="stylesheet" href="https://elixirtess.github.io/TeSS_widgets/css/tess-widget.css"/>
 <div id="tess-widget-events-table" class="tess-widget tess-widget-faceted-table"></div>
@@ -18,7 +18,7 @@ function initTeSSWidgets() {
             },
             params: {
                 pageSize: 5,
-                q: 'OSC'
+                q: 'chemistry'
             },
             baseUrl: 'https://taxila.nl'
         });
