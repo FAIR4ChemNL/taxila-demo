@@ -17,7 +17,7 @@ function initTeSSWidgets() {
                 facetOptionLimit: 5
             },
             params: {
-                contentProvider: [ "FAIR4ChemNL" ],
+                collections: [ "FAIR4ChemNL" ],
                 includeExpired: true,
                 sort: 'late'
             },
